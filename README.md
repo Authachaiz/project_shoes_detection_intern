@@ -1,0 +1,1 @@
+# project_shoes_detection_intern
